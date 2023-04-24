@@ -1,3 +1,2 @@
 pygame
 asyncio
-pygbag
